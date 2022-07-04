@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Michael Tjemmes. I recently received my Bachelor of Science in Electrical Engineering and Computer Engineering (Double Major), specializing in Cyber Systems and Security.<br>I love all things C/C++, though I must admit I thoroughly enjoy using Python too.<br>My focus is on Software Development, Embedded Systems, and Security. I am also fascinated by AI and Deep Learning.<br>My interest for languages extends beyond technology - I speak English, Spanish (Seal of Biliteracy), and Japanese (Minor).
+My name is Michael Tjemmes. I recently received my Bachelor of Science in Electrical Engineering and Computer Engineering (Double Major), specializing in Cyber Systems and Security.<br>I love all things C/C++, though I enjoy using all languages.<br>My focus is on Software Development, Embedded Systems, and Security. I am also fascinated by AI and Quantum Computing.<br>My interest for languages extends beyond technology - I speak English, Spanish (Seal of Biliteracy), and Japanese (Minor).
 
 
 ## 🌐 Socials:
