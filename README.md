@@ -27,11 +27,11 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="rust logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="20" />
@@ -88,6 +88,8 @@
 
 ###
 
+![](https://github-profile-trophy.vercel.app/?username=Tjemmmic&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
 <div align="center">
   
   <img src="https://streak-stats.demolab.com?user=Tjemmmic&locale=en&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -96,16 +98,9 @@
 
 ###
 
----
+
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Tjemmmic&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true"  />
-</div>
-
-###
-
----
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Tjemmmic&icon=2&color=6"  />
 </div>
 
 ###
