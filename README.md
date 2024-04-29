@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Michael "Donovan" Tjemmes. I have a Bachelor of Science in Electrical Engineering and Computer Engineering (Double Major), specializing in Cyber Systems and Security.<br>I love all things C/C++ and Rust, though I enjoy using all languages.<br>My primary interests are Software Development, Embedded Systems, and Security. I am also fascinated by AI and Quantum Computing.<br>My interest for languages extends beyond technology - I speak English, Spanish (Seal of Biliteracy), and Japanese (Minor).</p>
+<p align="left">My name is Michael "Donovan" Tjemmes. I have a Bachelor of Science in Electrical Engineering and Computer Engineering (Double Major), specializing in Cyber Systems and Security.<br>I love all things C/C++ and Rust, though I enjoy using all languages.<br>I am primarily interested in Software Development relating to Cryptography, Blockchain, and Game Development. AI and Quantum Computing also fascinate me.<br>My interest for languages extends beyond technology - I speak English, Spanish, and Japanese.</p>
 
 ###
 
