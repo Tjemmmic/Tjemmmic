@@ -76,7 +76,7 @@
 
 ###
 
-<h2 align="center">Platforms</h2>
+<h2 align="center">Environments</h2>
 
 ###
 
